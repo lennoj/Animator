@@ -1,0 +1,20 @@
+E:\C#\Animator\Animator\bin\Debug\Animator.dll
+E:\C#\Animator\Animator\bin\Debug\Animator.pdb
+E:\C#\Animator\Animator\obj\Debug\Animator.dll
+E:\C#\Animator\Animator\obj\Debug\Animator.pdb
+E:\C#\Animator\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+C:\Users\JPMENDOZA\Desktop\Animator\Animator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JPMENDOZA\Desktop\Animator\Animator\bin\Debug\Animator.dll
+C:\Users\JPMENDOZA\Desktop\Animator\Animator\bin\Debug\Animator.pdb
+C:\Users\JPMENDOZA\Desktop\Animator\Animator\obj\Debug\Animator.dll
+C:\Users\JPMENDOZA\Desktop\Animator\Animator\obj\Debug\Animator.pdb
+C:\Users\VMJPMENDOZA\Desktop\AlphaList Version\AlphaList\AlphaList\SUB_PROJECTS\Animator 04-16-2019 For DotNet 3.5\Animator\bin\Debug\Animator.dll
+C:\Users\VMJPMENDOZA\Desktop\AlphaList Version\AlphaList\AlphaList\SUB_PROJECTS\Animator 04-16-2019 For DotNet 3.5\Animator\bin\Debug\Animator.pdb
+C:\Users\VMJPMENDOZA\Desktop\AlphaList Version\AlphaList\AlphaList\SUB_PROJECTS\Animator 04-16-2019 For DotNet 3.5\Animator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VMJPMENDOZA\Desktop\AlphaList Version\AlphaList\AlphaList\SUB_PROJECTS\Animator 04-16-2019 For DotNet 3.5\Animator\obj\Debug\Animator.dll
+C:\Users\VMJPMENDOZA\Desktop\AlphaList Version\AlphaList\AlphaList\SUB_PROJECTS\Animator 04-16-2019 For DotNet 3.5\Animator\obj\Debug\Animator.pdb
+C:\Users\VMJPMENDOZA\Desktop\Animator\Animator\bin\Debug\Animator.dll
+C:\Users\VMJPMENDOZA\Desktop\Animator\Animator\bin\Debug\Animator.pdb
+C:\Users\VMJPMENDOZA\Desktop\Animator\Animator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VMJPMENDOZA\Desktop\Animator\Animator\obj\Debug\Animator.dll
+C:\Users\VMJPMENDOZA\Desktop\Animator\Animator\obj\Debug\Animator.pdb
